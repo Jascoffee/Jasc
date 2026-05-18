@@ -1,5 +1,5 @@
 <h1 align="center">Hello,Hello I'm Jasc</h1>
-<h3 align="center">一名web安全工程师，AI安全兴趣者</h3>
+<h3 align="center">从事web安全，AI安全相关学习和研究</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
